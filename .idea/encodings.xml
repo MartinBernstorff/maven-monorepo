@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ehealth-logging-bom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ehealth-logging-bom/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/fut-instrumentation-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/fut-instrumentation-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/fut-instrumentation-cxf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/fut-instrumentation-cxf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/fut-instrumentation-jaxrs-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/fut-instrumentation-jaxrs-rest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/fut-instrumentation-jms-activemq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/fut-instrumentation-jms-activemq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/fut-instrumentation-soap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/fut-instrumentation-soap/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/fut-instrumentation-spring-batch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/fut-instrumentation-spring-batch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/fut-instrumentation-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/fut-instrumentation-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/fut-instrumentation-test-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/fut-instrumentation-test-utils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-instrumentation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-client-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-client-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-client-fhir-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-client-fhir-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-client-jaxrs-rest-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-client-jaxrs-rest-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-client-jms-activemq-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-client-jms-activemq-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-client-sftp-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-client-sftp-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-client-sosi-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-client-sosi-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-client-ws-security-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-client-ws-security-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-server-web-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-server-web-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-spring-batch-job-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/fut-spring-batch-job-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fut-starters/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/request-response-logging/fut-fluency-logger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/request-response-logging/fut-fluency-logger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/request-response-logging/fut-request-response-cxf-logger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/request-response-logging/fut-request-response-cxf-logger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/request-response-logging/fut-request-response-logger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/request-response-logging/fut-request-response-logger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/request-response-logging/fut-request-response-servlet-filter-logger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/request-response-logging/fut-request-response-servlet-filter-logger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/request-response-logging/fut-request-response-soap-logger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/request-response-logging/fut-request-response-soap-logger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-logging/fut-complexity-logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-logging/fut-complexity-logging/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-logging/fut-log4j2-inspector/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-logging/fut-log4j2-inspector/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-logging/fut-log4j2-servlet-filter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-logging/fut-log4j2-servlet-filter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-logging/fut-log4j2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-logging/fut-log4j2/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

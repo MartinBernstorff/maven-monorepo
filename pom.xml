@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.trifork.example</groupId>
+    <artifactId>root</artifactId>
+    <version>2025.0.0</version>
+
+    <packaging>pom</packaging>
+
+    <properties>
+        <maven.compiler.release>17</maven.compiler.release>
+        <java.version>${maven.compiler.release}</java.version>
+    </properties>
+
+    <modules>
+        <module>lib</module>
+        <module>service</module>
+        <module>service2</module>
+    </modules>
+
+    <build>
+        <extensions>
+            <extension>
+                <groupId>org.apache.maven.extensions</groupId>
+                <artifactId>maven-build-cache-extension</artifactId>
+                <version>1.2.0</version>
+            </extension>
+        </extensions>
+    </build>
+</project>
